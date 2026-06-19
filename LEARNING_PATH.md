@@ -149,6 +149,10 @@ Read when your use case needs multi-agent systems, customization, or a non-Pytho
 2. agent-security-with-llamafirewall  
 3. agent-security-apex  
 
+### Retail / Ecommerce JD (Omni-Channel Agent)
+
+Full learning + build path for enterprise retail agents (CS, orders, RAG, ERP tools): [RETAIL_OMNI_CHANNEL_AGENT_PATH.md](RETAIL_OMNI_CHANNEL_AGENT_PATH.md)
+
 ---
 
 ## Visual flow
