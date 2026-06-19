@@ -633,6 +633,8 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 Transform your AI agent ideas into production-ready systems using our battle-tested patterns and implementations.
 
+**New here?** Follow the recommended tutorial order in [LEARNING_PATH.md](LEARNING_PATH.md) — from LangGraph fundamentals through deployment, security, and evaluation.
+
 ### 📖 Browse Online
 Explore tutorials directly on GitHub to understand production-grade implementations, architectural decisions, and integration patterns. Each tutorial includes comprehensive documentation and code that you can study and adapt to your specific requirements without any local setup.
 
